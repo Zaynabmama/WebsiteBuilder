@@ -5,7 +5,7 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A web-based platform that allows users to create, customize, and deploy websites effortlessly by selecting pre-designed components and deploying the site with a single click. The goal is to simplify website creation and make it accessible for everyone, regardless of technical expertise.
+> A web-based platform that allows users to create, customize, and deploy websites effortlessly by selecting pre-designed components and deploying the site with a single click on netlify. The goal is to simplify website creation and make it accessible for everyone, regardless of technical expertise.
 
 
 ### User Stories
@@ -18,18 +18,21 @@
 
 ###  Coffee Express is built using the following technologies:
 
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+- This project uses the Next.js and NestJS frameworks. Next.js is a powerful React-based framework that enables optimized web application development with server-side rendering and static site generation. NestJS is used for building scalable server-side applications with a structured architecture using Node.js.
+
+- The project utilizes MongoDB as the database management system, which provides flexible schema design and high scalability for data storage and retrieval.
+
+- To provide real-time customization, the app features a Customization Panel, allowing users to modify component properties with instant visual feedback—no manual saving required.
+
+-For deployment, the project can be integrated with the Netlify API using an API key, enabling automated deployments and continuous integration directly from the repository.
+
 
 <br><br>
 <!-- UI UX -->
 <img src="./readme/title4.svg"/>
 
 
-> We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
+> We designed Website Builder using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
 - Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
 
@@ -56,13 +59,6 @@
 <img src="./readme/title6.svg"/>
 
 
-### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-
 ### Admin Screens (Web)
 | Login screen  | Register screen |  Landing screen |
 | ---| ---| ---|
@@ -82,14 +78,7 @@
 
 <br><br>
 
-<!-- AWS Deployment -->
-<img src="./readme/title8.svg"/>
 
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
-
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
-
-<br><br>
 
 <!-- Unit Testing -->
 <img src="./readme/title9.svg"/>
@@ -104,7 +93,7 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up Project Builder  locally, follow these steps:
 
 ### Prerequisites
 
@@ -118,16 +107,16 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
+1. Get a free API Key at [Netlify](https://docs.netlify.com/api/get-started/)
 2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
+   git clone [github](git@github.com:Zaynabmama/WebsiteBuilder.git)
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `config.ts`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+Now, you should be able to run Website Builder locally and explore its features.
