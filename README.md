@@ -16,7 +16,7 @@
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  Coffee Express is built using the following technologies:
+###  Website Builder is built using the following technologies:
 
 - This project uses the Next.js and NestJS frameworks. Next.js is a powerful React-based framework that enables optimized web application development with server-side rendering and static site generation. NestJS is used for building scalable server-side applications with a structured architecture using Node.js.
 
@@ -24,7 +24,7 @@
 
 - To provide real-time customization, the app features a Customization Panel, allowing users to modify component properties with instant visual feedback—no manual saving required.
 
--For deployment, the project can be integrated with the Netlify API using an API key, enabling automated deployments and continuous integration directly from the repository.
+- For deployment, the project can be integrated with the Netlify API using an API key, enabling automated deployments and continuous integration directly from the repository.
 
 
 <br><br>
