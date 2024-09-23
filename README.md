@@ -1,4 +1,4 @@
-<img src="./readme/title1.svg"/>
+ <img src="./readme/title1.svg"/>
 
 <br><br>
 
@@ -71,7 +71,7 @@
 | Dashboard screen  | Builder screen |
 | ---| ---|
 | ![Landing](./readme/userdashboard.png) | ![fsdaf](./readme/BuilderPage.png) |
-
+| | |
 | ![Landing](./readme/BuilderPage1.png) | ![fsdaf](./readme/BuilderPage2.png) |
 
 <br><br>
