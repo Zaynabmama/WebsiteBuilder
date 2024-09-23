@@ -38,9 +38,9 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen |
-| ---| ---| ---|
-| ![SignIn](./readme/sign%20in.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| LogIn Screen | About Screen |
+| ---| ---|
+| ![SignIn](./readme/sign%20in.png) | ![fsdaf](./readme/Desktop%20-%205%20(1).png) |
 
 <br><br>
 
