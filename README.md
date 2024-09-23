@@ -1,4 +1,4 @@
-<img src="./readme/title1.svg"/>
+ <img src="./readme/title1.svg"/>
 
 <br><br>
 
@@ -40,7 +40,7 @@
 ### Mockups
 | LogIn Screen | About Screen |
 | ---| ---|
-| ![SignIn](./readme/sign%20in.png) | ![fsdaf](./readme/Desktop%20-%205%20(1).png) |
+| ![Landing](./readme/sign%20in.png) | ![fsdaf](./readme/Desktop%20-%205%20(1).png) |
 
 <br><br>
 
@@ -71,8 +71,10 @@
 | Dashboard screen  | Builder screen |
 | ---| ---|
 | ![Landing](./readme/userdashboard.png) | ![fsdaf](./readme/BuilderPage.png) |
-
+| | |
 | ![Landing](./readme/BuilderPage1.png) | ![fsdaf](./readme/BuilderPage2.png) |
+| | |
+| ![Landing](./readme/previewp.png) | ![fsdaf](./readme/deployment.png) |
 
 <br><br>
 
