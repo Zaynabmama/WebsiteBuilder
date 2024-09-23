@@ -49,7 +49,7 @@
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
-<img src="./readme/image.png"/>
+<img src="./readme/DBSCHEMA.png"/>
 
 
 <br><br>
