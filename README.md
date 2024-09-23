@@ -40,7 +40,7 @@
 ### Mockups
 | Home screen  | Menu Screen |
 | ---| ---| ---|
-| ![SignUp](./readme/.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![SignIn](./readme/sign%20in.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
 
