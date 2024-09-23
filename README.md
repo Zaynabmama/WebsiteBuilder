@@ -62,9 +62,9 @@
 ### Admin Screens (Web)
 | Login screen  | Register screen |
 | ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/Screenshot%20(254).png) | ![fsdaf](./readme/register.png) |
 | UserManagement screen  | ProjectManagement Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/usermanage.png) | ![fsdaf](./readme/projectmanage.png) |
 
 <br><br>
 ### User Screens (Web)
