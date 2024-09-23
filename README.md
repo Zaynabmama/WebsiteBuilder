@@ -68,11 +68,11 @@
 
 <br><br>
 ### User Screens (Web)
-| Login screen  | Register screen |
+| Dashboard screen  | Builder screen |
 | ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/userdashboard.png) | ![fsdaf](./readme/BuilderPage.png) |
+
+| ![Landing](./readme/BuilderPage1.png) | ![fsdaf](./readme/BuilderPage2.png) |
 
 <br><br>
 
