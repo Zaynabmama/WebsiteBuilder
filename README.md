@@ -38,9 +38,9 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen |
-| ---| ---| ---|
-| ![SignIn](./readme/sign%20in.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| LogIn Screen | About Screen |
+| ---| ---|
+| ![SignIn](./readme/sign%20in.png) | ![fsdaf](./readme/Desktop%20-%205%20(1).png) |
 
 <br><br>
 
@@ -60,10 +60,18 @@
 
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
+| Login screen  | Register screen |
+| ---| ---|
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
+| UserManagement screen  | ProjectManagement Screen |
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+
+<br><br>
+### User Screens (Web)
+| Login screen  | Register screen |
+| ---| ---|
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home screen  | Menu Screen |
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
