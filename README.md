@@ -72,6 +72,11 @@
 | ![Landing](./readme/usermanage.png) | ![fsdaf](./readme/projectmanage.png) |
 
 <br><br>
+### Demo
+ ![Landing](./readme/admin.gif) 
+
+
+<br><br>
 ### User Screens (Web)
 | Dashboard screen  | Builder screen |
 | ---| ---|
