@@ -87,7 +87,15 @@
 | ![Landing](./readme/previewp.png) | ![fsdaf](./readme/deployment.png) |
 
 <br><br>
+### Demo
+|||
+| ---| ---|
+![Landing](./readme/Builder.gif) | ![fsdaf](./readme/custumizepreview.gif) 
+| | |
+| ![Landing](./readme/deploy.gif) | ![fsdaf](./readme/register.gif) |
 
+
+<br><br>
 
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
