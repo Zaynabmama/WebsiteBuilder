@@ -11,7 +11,12 @@
 ### User Stories
 - As a user, I want to choose from various website components, so I can build a site that meets my needs.
 - As a user, I want to preview my website before deploying it, so I can ensure it looks as expected.
-- As a user, I want to deploy my website with a single click, so I can publish it quickly and easily.
+- As a user, I want to deploy my website on netlify with a single click, so I can publish it quickly and easily.
+<br><br>
+### Admin Stories
+- As an admin, I want to view a list of all users, so I can manage their accounts and monitor activity.
+- As an admin, I want to manage projects created by users, so I can oversee and track progress.
+- As an admin, I want to delete or deactivate user accounts, so I can maintain control over the platform.
 <br><br>
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
