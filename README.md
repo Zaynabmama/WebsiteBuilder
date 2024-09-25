@@ -73,7 +73,7 @@
 
 <br><br>
 ### Demo
-| ![Landing](./readme/admin.gif) |
+ ![Landing](./readme/admin.gif) 
 
 
 <br><br>
