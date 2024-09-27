@@ -43,7 +43,7 @@
 
 
 ### Mockups
-| LogIn Screen | About Screen |
+| Login Screen | About Screen |
 | ---| ---|
 | ![Landing](./readme/sign%20in.png) | ![fsdaf](./readme/Desktop%20-%205%20(1).png) |
 
